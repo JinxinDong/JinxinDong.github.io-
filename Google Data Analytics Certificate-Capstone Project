@@ -1,5 +1,9 @@
 Google Analytics Capstone Project (Case one) using Cyclistic (Divvy) bike data
 
+This Case Study was completed as part of the Google Data Analytics Professional Certificate.
+
+The code for data cleaning and analyzing can be found in this folder and the visualisations on Tableau are shown in my vizzes (https://public.tableau.com/app/profile/jinxin.dong)
+
 
 Step one: Ask
 What is the problem you are trying to solve?
@@ -46,4 +50,22 @@ What trends or relationships did you find in the data?
 A: The date of different customers using the bikes are different. Casual people prefer to have a trip on Friday and Saturday, while members prefer to use bikes from Monday to Friday. Members have more trips in most months of 2021 (except to July and August), while the length of trips of casual people are higher than that of members in 8 months. The most popular start and end stations for different customers are also different.
 How will these insights help answer your business questions?
 A: They can help us to understand the preferences of causal people including which type of bike they prefer, which locations are their favorite, and when they use the bikes. Based on these investigation, we can understand how, when, and where to use digital media for influencing casual riders to become members.
+
+Step five: Share
+Were you able to answer the question of how annual members and casual riders use Cyclistic bikes differently? 
+A: Yes, the details can be found in the Tableau vizzes and the answer in the last step.
+Can data visualization help you share your findings? 
+A: The visualization shows the differences between members and casual riders. 
+
+Step six: Act
+What is your final conclusion based on your analysis?
+A: 1. The members barely use the docked bike, while 15 % of causal riders choose the docked bike.
+     2. Causal riders spend much more time on the bikes, especially from May to September, although Causal riders have fewer trips in most months of 2021.
+     3. Casual riders use bikes mainly on Friday and Saturday, while annual members tend to use  them for getting to and from work on Weekdays.
+     4. The most popular stations for casual riders include the Streeter Dr & Grand Ave, Michigan Ave & Oak St, and Millenium Park stations.
+How could your team and business apply your insights?
+A: Based on these findings, our team can figure out the time and locations in which causal riders usually use bikes. Thus, we can use digital media at appropriate time and locations to influence casual riders to become members.
+Is there additional data you could use to expand on your findings?
+A: 1. The data from the previous years can be used to compare the tendency
+     2. Riders’ data (i.e. personal details) will facilitate more targeted marketing strategies
 
